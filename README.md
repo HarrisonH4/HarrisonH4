@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarrisonH4
-- 👀 I’m interested in learning to code in C++, other programming languages and Programs that run these languages.
-- 🌱 I’m currently learning C++ and Command Lines
-- 💞️ I’m looking to collaborate on C++ projects within Unreal and other programs.
+- 👀 I’m interested in learning to code in C++, other programming languages and Programs that run these languages. (Most Importantly Developing Games)
+- 📘 I’m currently working with others at university and learning even more advanced algorithms using C++ 
+- 🖥️ I’m looking to collaborate on C++ Engine Development and Games Development .
 - 📫 How to reach me:
 -   Email: HHenleyWork@gmail.com
       
